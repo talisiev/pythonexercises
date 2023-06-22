@@ -11,10 +11,13 @@ Steps To Run Python Files -
 Following test cases  
 
 1. Test Case #1 - Verify that the homepage is correct. File - PageNameValidation.py
-	Acceptance Criteria - Homepage name is Home & garden.
+	
+ Acceptance Criteria - Homepage name is Home & garden.
 
 2. Test Case #2 - Verify that CanRelist parameter value is set to "True". File - CanRelistValidation.py
-	Accetapnce Criteria - CanRelist parameter value is set to "True"
+	
+ Acceptance Criteria - CanRelist parameter value is set to "True"
 
 3. Test Case # 3 - Verify that the Name "Feature" has a matching Description value of "Better position in category" inside the Promotions section. - File - PromotionValuesValidation.py
-	Acceptance Criteria - Promotion section has the Name "Feature" with the exact Description of "Better position in category"
+	
+ Acceptance Criteria - Promotion section has the Name "Feature" with the exact Description of "Better position in category"
