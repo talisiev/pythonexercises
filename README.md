@@ -6,7 +6,11 @@ Steps To Run Python Files -
 3. Open Terminal, validate that python is installed by typing in "python". Installed version information will be displayed.
 4. To ensure proper python modules are installed, type in "python -m pip install requests" in the terminal. You should see the successful install of collected packages.
 5. Navigate to the folder where the .py files are saved.
-6. Execute per .py file by typing in "python <filename.py>. You should see the correct response in the terminal every execution. 
+6. Execute per .py file by typing in "python <filename.py>. You should see the correct response in the terminal every execution.
+
+Steps to Review the code - 
+1. Download an IDE that can support python development. I used the Anaconda Navigator (https://www.anaconda.com/) and used Spyder IDE.
+2. Open the .py files in the IDE (in my case, Spyder) and run the files individually. 
 
 Following test cases  
 
